@@ -3,7 +3,7 @@ using namespace std;
 
 /*
 kelompok kami berangggotakan
-arya putra bahari       23.11.5494
+putra                   -.-.----
 uswatun hasanah         23.11.5448
 agustina septofanny     23.11.5471
 khairul fikri           23.11.5442
